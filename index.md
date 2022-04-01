@@ -14,11 +14,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
-## Project 1
+## Lending Club Case Study for Loan Defaulter Prediction System
 
-> Fraud Detection Project.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> In this case study, we are attempting to solve a real world business problem using Exploratory Data Science techniques. We will be understanding and solving a risk analytics problem in Banking and Financial Domain.We will be checking how data can be used effectively to solve business problems like defaulters prediction in Loan Lending club.
+> Here is the github link for the code-
+>[Lending CLub Case Study Code](https://github.com/shrutipandit707/LendingClubCaseStudy)
+
 
 ### Header 3
 
