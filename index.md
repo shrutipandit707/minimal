@@ -19,7 +19,7 @@ This website contains projects that I have completed in AIML and Data science wi
 > In this case study, we are attempting to solve a real world business problem using Exploratory Data Science techniques. We will be understanding and solving a risk analytics problem in Banking and Financial Domain.We will be checking how data can be used effectively to solve business problems like defaulters prediction in Loan Lending club.
 > Here is the github link for the code-
 >[Lending CLub Case Study Code](https://github.com/shrutipandit707/LendingClubCaseStudy)
-> <center><img src="https://github.com/shrutipandit707/portfolio/blob/master/assets/img/ezgif.com-gif-maker.png"></center>
+> ![image1](https://github.com/shrutipandit707/portfolio/blob/master/assets/img/ezgif.com-gif-maker.png)
 
 
 ### Header 3
