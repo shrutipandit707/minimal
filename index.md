@@ -13,7 +13,7 @@ This website contains projects that I have completed in AIML and Data science wi
 
 > In this case study, we are attempting to solve a real world business problem using Simple Linear Regression Techniques. We will be understanding and solving a risk analytics problem in Sales Domain.We will be checking how data modelling can be used effectively to solve business problems using Residual Analysis and Predicting and evaluating the test set
 > Here is the github link for the code-
->[Simple Linear Regression of Sales Data]
+>[Simple Linear Regression of Sales Data](https://github.com/shrutipandit707/Simple_Linear_Regression/blob/main/Simple_Linear_Regression.ipynb)
 
 ### Header 3
 
