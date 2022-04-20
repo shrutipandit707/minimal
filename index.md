@@ -1,15 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Data Science Portfolio
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
@@ -19,8 +7,13 @@ This website contains projects that I have completed in AIML and Data science wi
 > In this case study, we are attempting to solve a real world business problem using Exploratory Data Science techniques. We will be understanding and solving a risk analytics problem in Banking and Financial Domain.We will be checking how data can be used effectively to solve business problems like defaulters prediction in Loan Lending club.
 > Here is the github link for the code-
 >[Lending CLub Case Study Code](https://github.com/shrutipandit707/LendingClubCaseStudy)
-> ![image1](https://cdn.corporatefinanceinstitute.com/assets/machine-learning-in-finance-1024x726.jpeg)
 
+## Simple Linear Regression on Sales Data
+
+
+> In this case study, we are attempting to solve a real world business problem using Simple Linear Regression Techniques. We will be understanding and solving a risk analytics problem in Sales Domain.We will be checking how data modelling can be used effectively to solve business problems using Residual Analysis and Predicting and evaluating the test set
+> Here is the github link for the code-
+>[Simple Linear Regression of Sales Data]
 
 ### Header 3
 
