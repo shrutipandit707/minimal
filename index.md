@@ -21,12 +21,27 @@ This website contains projects that I have completed in AIML and Data science wi
 > In this case study, we are attempting to solve a real world business problem using Multiple Linear Regression Techniques. We will have to build a multiple linear regression model for the prediction of demand for shared bikes.
 > Here is the github link for the code-
 >[Multiple Linear Regression of Bike Sharing Data](https://github.com/shrutipandit707/MultipleLinearRegression/tree/master)
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
+## Multiple Linear Regression on Real Estate Data
+
+
+> IConsider a real estate company that has a dataset containing the prices of properties in the Delhi region. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.
+Essentially, the company wants —
+- To identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc.
+- To create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc.
+ To know the accuracy of the model, i.e. how well these variables can predict house prices.
+
+__So interpretation is important!__
+
+The steps we will follow in this exercise are as follows:
+
+- Reading,understanding and visualising the data
+- Preparing the data for modelling(train-test split,rescaling etc.)
+- Training the model
+- Residual analysis
+- Prediction and evaluation on test set
+> Here is the github link for the code-
+>[Multiple Linear Regression on Real Estate Data](https://github.com/shrutipandit707/MultipleLinearRegressionEstate)
 
 #### Header 4
 
