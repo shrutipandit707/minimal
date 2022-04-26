@@ -15,16 +15,12 @@ This website contains projects that I have completed in AIML and Data science wi
 > Here is the github link for the code-
 >[Simple Linear Regression of Sales Data](https://github.com/shrutipandit707/Simple_Linear_Regression/blob/main/Simple_Linear_Regression.ipynb)
 
-### Header 3
+## Multiple Linear Regression on Bike Sharing Data
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
+> In this case study, we are attempting to solve a real world business problem using Multiple Linear Regression Techniques. We will have to build a multiple linear regression model for the prediction of demand for shared bikes.
+> Here is the github link for the code-
+>[Multiple Linear Regression of Bike Sharing Data](https://github.com/shrutipandit707/MultipleLinearRegression/tree/master)
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
