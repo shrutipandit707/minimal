@@ -25,7 +25,7 @@ This website contains projects that I have completed in AIML and Data science wi
 ## Multiple Linear Regression on Real Estate Data
 
 
-> IConsider a real estate company that has a dataset containing the prices of properties in the Delhi region. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.
+> Consider a real estate company that has a dataset containing the prices of properties in the Delhi region. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.
 Essentially, the company wants —
 - To identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc.
 - To create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc.
@@ -42,6 +42,12 @@ The steps we will follow in this exercise are as follows:
 - Prediction and evaluation on test set
 > Here is the github link for the code-
 >[Multiple Linear Regression on Real Estate Data](https://github.com/shrutipandit707/MultipleLinearRegressionEstate)
+
+## Logistic Regression on Customer Churn Data
+
+
+> Our data, sourced from Kaggle, is centered around customer churn, the rate at which a commercial customer will leave the commercial platform that they are currently a (paying) customer, of a telecommunications company. We did the EDA process has, and we have a pretty good sense of what our data tells us before processing, we built a Logistic Regression classification model which will allow for us to predict whether a customer is at risk to churn from Telco’s platform.
+>[Logistic Regression on Customer Churn Data](https://github.com/shrutipandit707/LogisticRegression)
 
 #### Header 4
 
