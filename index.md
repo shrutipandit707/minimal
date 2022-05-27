@@ -49,9 +49,9 @@ The steps we will follow in this exercise are as follows:
 > Our data, sourced from Kaggle, is centered around customer churn, the rate at which a commercial customer will leave the commercial platform that they are currently a (paying) customer, of a telecommunications company. We did the EDA process has, and we have a pretty good sense of what our data tells us before processing, we built a Logistic Regression classification model which will allow for us to predict whether a customer is at risk to churn from Telco’s platform.
 >[Logistic Regression on Customer Churn Data](https://github.com/shrutipandit707/LogisticRegression)
 
-<!--#### Header 4
+{%#### Header 4%}
 
-*   This is an unordered list following a header.
+{%*   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
@@ -133,4 +133,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
---!>
+--%}
