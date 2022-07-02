@@ -2,6 +2,105 @@
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
+## House Price Prediction System using XGBoost Regression
+> In this case study, we are attempting to solve a real world business problem using XGBoost Regression techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [House Price Prediction System using XGBoost Regression](https://github.com/shrutipandit707/XGBoost-Regression) 
+
+## Employee Attrition Classification System by XGBoost Classification Technique
+> In this case study, we are attempting to solve a real world business problem using XGBoost Classification Technique. We will be understanding and solving a risk analytics problem in Human Resources Domain.We will be checking how data can be used effectively to solve business problems like The problem statement that we will be working on is to predict which factors led to employee attrition in a particular company.
+> Here is the github link for the code-
+> [Employee Attrition Classification System by XGBoost Classification Technique](https://github.com/shrutipandit707/XGBoost-Classification)
+
+## Decision Tree for Heart Disease Prediction System
+> Heart disease is a leading cause of premature death in the world.Predicting the outcome of disease is the challenging task.Data mining is involved to automatically infer diagnostic rules and help specialists to make diagnosis process more reliable.
+> Here is the github link for the code-
+> [Decision Tree for Heart Disease Prediction System](https://github.com/shrutipandit707/Tree-Model-Heart-Disease)
+
+## Telecom Churn Case Study by Decision Tree Technique
+> In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+> Here is the github link for the code-
+> [Telecom Churn Case Study by Decision Tree Technique](https://github.com/shrutipandit707/Telecom-Churn-Tree-Model)
+
+## SVM Letter Recognition
+> In this case study, we are attempting to solve a real world business problem using Exploratory Data Science techniques. We will be understanding and solving a risk analytics problem in Banking and Financial Domain.We will be checking how data can be used effectively to solve business problems like defaulters prediction in Loan Lending club
+> Here is the github link for the code-
+> [SVM Letter Recognition](https://github.com/shrutipandit707/SVM-Letter-Recognition)
+
+## Bernoulli Naive Bayes for SMS Classification System
+> In this case study, we are attempting to solve a real world problem using Multinomial Naive Bayes techniques. 
+> Here is the github link for the code-
+> [Bernoulli Naive Bayes for SMS Classification System](https://github.com/shrutipandit707/SMS_Naive_Bayes_Bernoulli)
+ 
+## Multinomial Naive Bayes for SMS Classification System
+> In this case study, we are attempting to solve a real world problem using Multinomial Naive Bayes techniques.
+> Here is the github link for the code-
+> [Multinomial Naive Bayes for SMS Classification System](https://github.com/shrutipandit707/SMS-Classifier-Multinomial-Naive-Bayes)
+ 
+## Advertising Case Study for Simple Linear Regression
+> In this case study, we are attempting to solve a real world business problem using Simple Linear Regression techniques. We will be understanding and solving an advertising problem in Marketing Domain.We will be checking how data can be used effectively to solve business problems like advertising prediction system.
+> Here is the github link for the code-
+> [Advertising Case Study for Simple Linear Regression](https://github.com/shrutipandit707/Simple_Linear_Regression_1)
+
+## Random Forest for Heart Disease Prediction System
+> Heart disease is a leading cause of premature death in the world.Predicting the outcome of disease is the challenging task.Data mining is involved to automatically infer diagnostic rules and help specialists to make diagnosis process more reliable.
+> Here is the github link for the code-
+> [Random Forest for Heart Disease Prediction System](https://github.com/shrutipandit707/Random_Forest_Heart_Disease)
+
+## Multinomial and Bernoulli Naive Bayes
+>For understanding Multinomial and Bernoulli Naive Bayes, we will start with a small example and understand the end to end process. 
+To start with, let's take a few sentences and classify them in two different classes - education or cinema. Each sentence will represent one document. In real-world cases, a document be any piece of text such as an email, a news article, a book review, a tweet etc. The analysis and the algorithm involved doesn’t depend on the type of document we use.
+> Here is the github link for the code-
+> [Multinomial and Bernoulli Naive Bayes](https://github.com/shrutipandit707/Naive_Bayes_Multinomial_Bernoulli)
+
+## House Price Prediction System using Multiple Linear Regression
+> In this case study, we are attempting to solve a real world business problem using Multiple Linear Regression techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [House Price Prediction System using Multiple Linear Regression](https://github.com/shrutipandit707/Multiple-Linear-Regression)
+
+## Time Series Johansen Impulse Demonstration
+> This is a Time Series Forecast Demonstration.
+> 
+> Here is the github link for the code-
+> [Time Series Johansen Impulse Demonstration](https://github.com/shrutipandit707/LTSM-Johansen-Impulse)
+
+## Time Series Forecast Demonstration
+> This is a Time Series Forecast Demonstration.
+> 
+> Here is the github link for the code-
+> [Time Series Forecast Demonstration](https://github.com/shrutipandit707/LTSM-Demonstration)
+
+## Time Series Forecast for Airline Passenger Prediction System
+> This dataset provides monthly totals of a US airline passengers from 1949 to 1960. This dataset is taken from an inbuilt dataset of R called AirPassengers.
+> Here is the github link for the code-
+> [Time Series Forecast for Airline Passenger Prediction System](https://github.com/shrutipandit707/LTSM-Airline)
+
+## EMail Spam Detection and Classification using Linear SVM
+> Today emails have become to be a standout amongst the most well-known and efficient types of correspondence for Internet clients. Hence because of its fame, the email will be misused. One such misuse is the posting of unwelcome,undesirable messages known as spam or junk messages. Email spam has different consequences. It diminishes productivity,consumes additional space in mailboxes, additional time, expands programming damaging viruses, and materials that containconceivably destructive data for Internet clients, destroys the stability of mail servers, and subsequently, clients invest lots of time for sorting approaching mail and erasing undesirable correspondence. So there is a need for spam detection so that its outcomes can be reduced. In this notebook, I propose a novel method for email spam detection using SVM and feature extraction.
+>  Here is the github link for the code-
+> [EMail Spam Detection and Classification using Linear SVM](https://github.com/shrutipandit707/Linear-SVM-Email)
+
+## IMDB Review Classification using Naive Bayes Technique
+> In this case study, we are attempting to solve a real world business problem using Naive Bayes techniques. based on Naive Bayes classifier to predict positive and negative reviews from IMDB dataset.
+>  Here is the github link for the code-
+> [IMDB Review Classification using Naive Bayes Technique](https://github.com/shrutipandit707/IMDB-Naive-Bayes)
+
+
+## House Price Prediction System using Random Forest
+> In this case study, we are attempting to solve a real world business problem using Multiple Linear Regression and Random Forest techniques.We are understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [House Price Prediction System using Random Forest](https://github.com/shrutipandit707/Housing-Random-Forest-Tree-Models)
+
+## House Price Prediction System using Multiple Linear Regression and Decision Trees
+> In this case study, we are attempting to solve a real world business problem using Multiple Linear Regression and Decision Trees techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [House Price Prediction System using Multiple Linear Regression and Decision Trees](https://github.com/shrutipandit707/House_Price_Tree)
+
+
+## House Price Prediction System using Gradient Boosting Regression
+> In this case study, we are attempting to solve a real world business problem using Gradient Boosting Regression techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [GBM Regression](https://github.com/shrutipandit707/GBM-Regression)
 
 
 ## Employee Attrition Classification System by GBM Classification
