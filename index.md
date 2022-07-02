@@ -2,6 +2,11 @@
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
+## Employee Attrition Case Study for a Company by AdaBoost Classification
+> In this case study, we are attempting to solve a real world business problem using AdaBoost Classification Algortihm. We will be understanding and solving a risk analytics problem in Human Resources Domain.We will be checking how data can be used effectively to solve business problems like The problem statement that we will be working on is to predict which factors led to employee attrition in a particular company.
+> Here is the github link for the code-
+>[AdaBoost Classifier](https://github.com/shrutipandit707/AdaBoostClassifier)
+
 ## Lending Club Case Study for Loan Defaulter Prediction System
 
 > In this case study, we are attempting to solve a real world business problem using Exploratory Data Science techniques. We will be understanding and solving a risk analytics problem in Banking and Financial Domain.We will be checking how data can be used effectively to solve business problems like defaulters prediction in Loan Lending club.
