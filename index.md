@@ -53,11 +53,6 @@ To start with, let's take a few sentences and classify them in two different cla
 > Here is the github link for the code-
 > [Multinomial and Bernoulli Naive Bayes](https://github.com/shrutipandit707/Naive_Bayes_Multinomial_Bernoulli)
 
-## House Price Prediction System using Multiple Linear Regression
-> In this case study, we are attempting to solve a real world business problem using Multiple Linear Regression techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
-> Here is the github link for the code-
-> [House Price Prediction System using Multiple Linear Regression](https://github.com/shrutipandit707/Multiple-Linear-Regression)
-
 ## Time Series Johansen Impulse Demonstration
 > This is a Time Series Forecast Demonstration.
 > 
