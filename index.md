@@ -2,10 +2,27 @@
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
+## House Price Prediction System using Advanced Regression
+
+> In this case study, we are attempting to solve a real world business problem using Advanced Regression techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+>  [Advanced Regresson](https://github.com/shrutipandit707/AdaBoostClassifier)
+
 ## Employee Attrition Case Study for a Company by AdaBoost Classification
+
 > In this case study, we are attempting to solve a real world business problem using AdaBoost Classification Algortihm. We will be understanding and solving a risk analytics problem in Human Resources Domain.We will be checking how data can be used effectively to solve business problems like The problem statement that we will be working on is to predict which factors led to employee attrition in a particular company.
+> [Advaned Classifiction](https://github.com/shrutipandit707/AdaBoostClassifier)
+
+## Advertising Case Study for Advanced Regression
+
+> In this case study, we are attempting to solve a real world business problem using Advanced Regression techniques. We will be understanding and solving an advertising problem in Marketing Domain.We will be checking how data can be used effectively to solve business problems like advertising prediction system.
 > Here is the github link for the code-
->[AdaBoost Classifier](https://github.com/shrutipandit707/AdaBoostClassifier)
+>[Advaned Regression](https://github.com/shrutipandit707/AdaBoostRegression)
+
+## House Price Prediction System using AdaBoost Regression
+
+> In this case study, we are attempting to solve a real world business problem using Adaboost Regression techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+>[AdaBoost Regression](https://github.com/shrutipandit707/AdaBoostRegression)
 
 ## Lending Club Case Study for Loan Defaulter Prediction System
 
