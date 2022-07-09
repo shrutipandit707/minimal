@@ -2,6 +2,22 @@
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
+## Unsupervised K-Prototype Clustering for Blood Transfusion Datset
+> In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Prototype techniques. The data is related with Blood Transfusion.
+> Here is the github link for the code-
+> [Unsupervised K-Prototype Clustering for Blood Transfusion Datset](https://github.com/shrutipandit707/K_Prototype) 
+
+
+## Unsupervised K-Mode Clustering for Banking Data
+> In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Mode techniques. The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+> Here is the github link for the code-
+> [Unsupervised K-Mode Clustering for Banking Data](https://github.com/shrutipandit707/K_Mode) 
+
+## Unsupervised K-Means Clustering for Online Retail Data
+> In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Means techniques. Online retail is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+> Here is the github link for the code-
+> [Unsupervised K-Means Clustering for Online Retail Data](https://github.com/shrutipandit707/KMeans) 
+
 ## House Price Prediction System using XGBoost Regression
 > In this case study, we are attempting to solve a real world business problem using XGBoost Regression techniques. We will be understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
 > Here is the github link for the code-
