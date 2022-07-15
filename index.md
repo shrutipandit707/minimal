@@ -2,6 +2,17 @@
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
+## House Price Prediction System using PCA
+> In this case study, we are attempting to solve a real world business problem using PCA techniques.We are understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [House Price Prediction System using PCA](https://github.com/shrutipandit707/HousingPCA) 
+
+## Telecom Churn Case Study by PCA
+> In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+> Here is the github link for the code-
+> [Telecom Churn Case Study by PCA](https://github.com/shrutipandit707/TelecomPCA) 
+
+
 ## Unsupervised K-Prototype Clustering for Blood Transfusion Datset
 > In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Prototype techniques. The data is related with Blood Transfusion.
 > Here is the github link for the code-
