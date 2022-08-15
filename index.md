@@ -2,6 +2,50 @@
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
+## Digit Recognition using CNN
+> A classic problem in the field of pattern recognition is that of handwritten digit recognition. Suppose that you have images of handwritten digits ranging from 0-9 written by various people in boxes of a specific size - similar to the application forms in banks and universities.We will apply Convolutional Neural Network here for this problem.
+> Here is the github link for the code-
+> [Digit Recognition using CNN](https://github.com/shrutipandit707/CIFAR) 
+
+## Transfer Learning on Flower Dataset
+> For this project, we begin with a very popular machine learning dataset - Flowers. In this segment, we will learn the necessary steps needed to perform Transfr Learning on a dataset and then appreciate how it helps in visualising the data.
+> Here is the github link for the code-
+> [Transfer Learning on Flower Dataset](https://github.com/shrutipandit707/Transfer_Learning) 
+
+## Digit Recognition using Keras
+> A classic problem in the field of pattern recognition is that of handwritten digit recognition. Suppose that you have images of handwritten digits ranging from 0-9 written by various people in boxes of a specific size - similar to the application forms in banks and universities.
+> Here is the github link for the code-
+> [Digit Recognition using Keras](https://github.com/shrutipandit707/MNIST-Keras) 
+
+
+## House Price Prediction System with Feedforward Neural Networks using Keras
+> In this case study, we are attempting to solve a real world business problem using with Neural Networks using Keras techniques.We are understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [House Price Prediction System with Feedforward Neural Networks using Keras](https://github.com/shrutipandit707/House-NN-Keras) 
+
+
+## House Price Prediction System with Feedforward Neural Networks
+> In this case study, we are attempting to solve a real world business problem using FeedForward Neural Networks techniques.We are understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
+> Here is the github link for the code-
+> [House Price Prediction System with FeedForward Neural Netowrks](https://github.com/shrutipandit707/House-FeedForward) 
+
+## PCA on IRIS Dataset
+> For this project, we begin with a very popular machine learning dataset - 'Iris'. In this segment, we will learn the necessary steps needed to perform PCA on a dataset and then appreciate how it helps in visualising your data that contains more than two dimensions.
+> Here is the github link for the code-
+> [PCA On IRIS Dataset](https://github.com/shrutipandit707/IRIS-PCA) 
+
+## Example-Change of Basis-PCA
+> In this segment, we'll take a look at how we compute the transformation matrix M that helps us navigate between multiple basis vectors. We'll generalise the conventions on how to move from one basis to another basis so that it becomes easier while using the formula.
+> Here is the github link for the code-
+> [Change Of Basis-PCA](https://github.com/shrutipandit707/PCA-Change-Basis) 
+
+
+## Telecom Churn Case Study by PCA and Random Forest
+> In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+> Here is the github link for the code-
+> [Telecom Churn Case Study by PCA and Random Forest](https://github.com/shrutipandit707/TelecomPCARandomForest) 
+
+
 ## House Price Prediction System using PCA
 > In this case study, we are attempting to solve a real world business problem using PCA techniques.We are understanding and solving a House Price Prediction problem in Real Estate Domain.We will be checking how data can be used effectively to solve business problems like House Price Prediction Problem.The problem statement that we will be working on is to predict the house sales in a particular location and understand which factors are responsible for higher property value.
 > Here is the github link for the code-
