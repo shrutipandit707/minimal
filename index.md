@@ -8,6 +8,85 @@ This website contains projects that I have completed in AIML and Data science wi
 > Here is the github link for the code-
 > [Melanoma Cancer Detection using CNN](https://github.com/shrutipandit707/skin-cancer-cnn) 
 
+## Style Transfer and Object Detection using CNN
+> In this notebook will be going through two interesting applications of CNNs - Style Transfer and Object Detection.
+
+> Style transfer is a fun 'artistic' application of CNNs using which various 'styles' can be applied to images. The main learning objective of studying style transfer > is to understand how the basic ideas of CNNs can be used to write entirely new applications. Object detection, as you already know, is the problem of detecting >objects in images. It is very commonly used in computer vision applications, such as driverless cars, extracting specific text from documents (such as Aadhar cards, >passports etc.). .
+> Here is the github link for the code-
+> [Style Transfer and Object Detection using CNN](https://github.com/shrutipandit707/Style-Transfer_CNN) 
+
+## Reading Digital Images using CNN
+
+> In this notebook will be reading digital images using CNN.
+> Here is the github link for the code-
+> [Reading Digital Images using CNN](https://github.com/shrutipandit707/Reading_Images_CNN) 
+
+
+## Object Tracking in Videos using CNN
+
+> In this notebook will be tracking objects in videos using CNN.
+> In previous notebooks, we have seen the following pipeline:
+
+ - Taking the difference between 2 images
+ - Applying a blur
+ - Thresholding of an image
+ - Morphological transformations
+> At the end of this pipeline, you are left with the 'contours' of the moving objects that you are trying to identify.
+> 
+> Here is the github link for the code-
+> [Object Tracking in Videos using CNN](https://github.com/shrutipandit707/Object_Tracking_CNN) 
+
+
+## Optical Character Recognition using CNN
+
+> In this notebook , you will see the process of extracting text from image. You will use OpenCV to preprocess the image and use open-source tesseract library to extract text from pre-processed image.
+> 
+> Here is the github link for the code-
+> [Optical Character Recognition using CNN](https://github.com/shrutipandit707/OCR_CNN) 
+
+## Predicting Dow Jones with News Headlines using RNN
+
+> In this notebook we are trying to predict Dow Jones using RNN.We are using Reddit News Headlines to predict the movement of Dow Jones Industrial Average.
+> **Data Source:** https://www.kaggle.com/aaron7sun/stocknews
+> **Data Description:** Dow Jones details on Open, High, Low and Close for each day from 2008-08-08 to 2016-07-01 and headlines for those dates from Reddit News.
+> **Methodology:** For this project, we will use GloVe to create our word embeddings and CNNs followed by LSTMs to build our model. This model is based off the work done in this paper https://www.aclweb.org/anthology/C/C16/C16-1229.pdf.
+> 
+> Here is the github link for the code-
+> [Predicting Dow Jones with News Headlines using RNN](https://github.com/shrutipandit707/1D-CNN) 
+
+## Text generation using RNN - Character Level
+
+> We're going to build a C code generator by training an RNN on a huge corpus of C code (the linux kernel code). You can download the C code used as source text from the following link: https://github.com/torvalds/linux/tree/master/kernel
+We have already downloaded the entire kernel folder and stored in a local directory.
+> 
+> Here is the github link for the code-
+> [Text generation using RNN - Character Level](https://github.com/shrutipandit707/C-Code-RNN) 
+
+
+## Parts-of-speech Tagging using RNN
+
+> In this notebook we are classifying words into their parts of speech and labeling them accordingly is known as part-of-speech tagging, or simply POS-tagging.
+> 
+> Here is the github link for the code-
+> [Parts-of-speech Tagging using RNN](https://github.com/shrutipandit707/POS_Tagger_RNN1) 
+
+## Getting Started with OpenCV and it's usage in images
+
+> This notebook has two main objectives:
+
+ 1. Getting familiar with OpenCV - its installation and some of its basic usage.
+ 2. Looking at the data we will use - this will give you a lot of context for my future projects.
+> 
+> Here is the github link for the code-
+> [Getting Started with OpenCV and it's usage in images](https://github.com/shrutipandit707/Open_CV_CNN) 
+
+## Flower Image Reconition by CNN
+
+> We will be classifying flower images with CNN technique. We are using various CNN concepts in this notebook like Data Augmentation, Ablation, Morphological Transformations, Normalisations, Network building, Hyperparameter Tuning etc. to solve this image classification problem.
+> 
+> Here is the github link for the code-
+> [Flower Image Reconition by CNN](https://github.com/shrutipandit707/Flower_CNN) 
+
 ## Digit Recognition using CNN
 > A classic problem in the field of pattern recognition is that of handwritten digit recognition. Suppose that you have images of handwritten digits ranging from 0-9 written by various people in boxes of a specific size - similar to the application forms in banks and universities.We will apply Convolutional Neural Network here for this problem.
 > Here is the github link for the code-
