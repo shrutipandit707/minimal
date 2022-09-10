@@ -2,6 +2,12 @@
 
 This website contains projects that I have completed in AIML and Data science with Github links for each.
 
+## CNN based model to accurately detect melanoma
+
+> I built a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+> Here is the github link for the code-
+> [Melanoma Cancer Detection using CNN](https://github.com/shrutipandit707/skin-cancer-cnn) 
+
 ## Digit Recognition using CNN
 > A classic problem in the field of pattern recognition is that of handwritten digit recognition. Suppose that you have images of handwritten digits ranging from 0-9 written by various people in boxes of a specific size - similar to the application forms in banks and universities.We will apply Convolutional Neural Network here for this problem.
 > Here is the github link for the code-
